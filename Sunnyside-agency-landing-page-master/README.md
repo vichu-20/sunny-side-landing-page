@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## LIVE DEMO : https://pranavpadmanabhan.github.io/Sunnyside-agency-landing-page/
+## LIVE DEMO :
 
 ## Available Scripts
 
